@@ -1,4 +1,4 @@
-# Tailwind + RWD 實作簡單首頁
+# 🚀Tailwind + RWD 實作簡單首頁
 # 🔗[點我觀看教材影片](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6M8znNpim8dRiICRrP5HPft)
 **🚫本專案為自主練習使用，請勿挪為商業用途🚫**
 
