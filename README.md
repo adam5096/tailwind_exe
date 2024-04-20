@@ -1,4 +1,5 @@
 # 🚀Tailwind + RWD 實作簡單首頁
+# 網頁連結 [https://adam5096.github.io/tailwind_exe/](https://adam5096.github.io/tailwind_exe/)
 # 🔗[原作者+參考資料來源](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6M8znNpim8dRiICRrP5HPft)
 **🚫本專案為自主練習使用，請勿挪為商業用途🚫**
 
